@@ -2,8 +2,8 @@
 node_modules
 
 # IDE
-.Cursor/
-.Cursor
+.cursor/
+.cursor
 
 
 # output
