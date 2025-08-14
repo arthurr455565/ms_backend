@@ -2,7 +2,9 @@
 node_modules
 
 # IDE
+.Cursor/
 .Cursor
+
 
 # output
 out
