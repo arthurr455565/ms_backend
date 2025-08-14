@@ -7,14 +7,12 @@
 		"dev": "bun --hot run src/index.ts",
 		"build": "bun build src/index.ts --outdir dist --target bun",
 		"format": "biome check . --write",
-		"lint": "biome check .",
-		"prepare": "husky"
+		"lint": "biome check ."
 	},
 	"devDependencies": {
 		"@biomejs/biome": "^2.1.2",
 		"@types/bun": "latest",
 		"@types/node": "^24.0.15",
-		"husky": "^9.1.7",
 		"lint-staged": "^16.1.2",
 		"prettier": "^3.6.2",
 		"prisma": "^6.12.0"
